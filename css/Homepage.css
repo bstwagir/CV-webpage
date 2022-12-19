@@ -21,8 +21,9 @@ header {
       }
 img {
   border-radius: 50%;
-  width: 45.58%;
-  height: 95.1%;
+  width: 30.58%;
+  height: 80.5%;
+  left: 70%;
   }
 .main {
   padding-bottom: 0;
@@ -35,10 +36,10 @@ img {
         /*font-weight:900;*/
         margin-left:7.22%;
         font-family: 'Arial';
-        font-size: 22px;
-        line-height: 28px;
+        font-size: 15px;
+        line-height: 20px;
         font-weight: 900;
-        padding-top: 10px;
+        padding-top: 20px;
       }
 h2 {
   font-weight: 400 ;
@@ -47,11 +48,11 @@ h2 {
   cursor:pointer;
 }
 .log {
-        margin-right: 18%;
-        color:white;
-        list-style: none;
-        margin-top: 5%;
-        
+        left: 40%;
+        margin-top: 20px;
+        float: right;
+        width: 25%;
+        margin-right: 7.22%;
       }
 .button {
   background-color:rgba(0,200,255,1);
@@ -92,10 +93,10 @@ background-color: rgba(100,100,200,1);
 
 
 .container{
-  height: 300px;
+ 
   font-size: 16px;
   font-weight:250;
-  margin-top: 25%;
+  margin-top: 15%;
   font-family: 'Arial';
   line-height: 30px;
   display: block;
