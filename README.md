@@ -1,4 +1,2 @@
-# My Brand
-This repository fully encompasses what I have to offer as a professional. A number of self introduction documents</br>
-followed by a portfolio of skills, qualifications and previous work details.</br>
-This an all in one catalogue where one can find everything about my professional career.
+# My CV
+This repository holds the code a modern curriculum vitae webpage.</br> This page has been enhanced with extra fonctionalities and accurate responsiveness to different screen sizes.
