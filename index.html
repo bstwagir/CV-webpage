@@ -10,7 +10,7 @@
       </head>
       <body>
       <header id="head">
-        <div class="logo" id="cl">
+        <div class="logo" id="text" onclick="func()">
            <h1>Shimwa Blaise Twagirayezu</h1>
            <h2>Software Developer</h2> 
         </div>
@@ -83,7 +83,21 @@
        </br>
 
      </div>
-   </div> 
+   </div>
+   <script>
+    function func(){
+    
+      if(document.getElementById("text").style.color =="red"){ 
+
+        document.getElementById("text").style.color = 'blue'}
+        else if(document.getElementById("text").style.color == "green"){
+          document.getElementById("text").style.color= "red";
+        } else {
+          document.getElementById("text").style.color = "green"
+        }
+        
+    }
+    </script> 
   <body>
 
 
